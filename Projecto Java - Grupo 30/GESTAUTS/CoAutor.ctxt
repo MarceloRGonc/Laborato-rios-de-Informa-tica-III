@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CoAutor()
+comment1.params=nome
+comment1.target=CoAutor(java.lang.String)
+comment10.params=
+comment10.target=void\ incPub()
+comment2.params=nome\ valor
+comment2.target=CoAutor(java.lang.String,\ int)
+comment3.params=n
+comment3.target=CoAutor(CoAutor)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=
+comment5.target=int\ getCoAut()
+comment6.params=x
+comment6.target=void\ setCoAut(int)
+comment7.params=
+comment7.target=int\ hashCode()
+comment8.params=obj
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=
+comment9.target=CoAutor\ clone()
+numComments=11
